@@ -1,0 +1,29 @@
+# IDE and Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+
+# Build and Compilation
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Maven
+*.log
+
+# Project-specific
+.classpath
+.project
+.settings/
+bin/
+*.sublime-workspace
